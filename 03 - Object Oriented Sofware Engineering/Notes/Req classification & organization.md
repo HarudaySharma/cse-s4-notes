@@ -1,0 +1,2 @@
+This activity takes the unstructured collection of requirements, groups related requirements and organizes them into coherent clusters.
+- The most common way of grouping req. Is to use a model of the system architecture to identify sub system and to associate req. With each Sub system.

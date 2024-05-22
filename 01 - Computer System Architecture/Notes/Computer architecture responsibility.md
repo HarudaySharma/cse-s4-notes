@@ -1,0 +1,1 @@
+Compute architecture is concerned with the structure and behaviour of the various functional modules of the computer and how they Interact to provide the processing needs of the user.

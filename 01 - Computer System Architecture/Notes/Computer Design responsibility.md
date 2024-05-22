@@ -1,0 +1,1 @@
+Computer design is concerned with the development of the hardware for the computer taking into consideration a given set of specifications.

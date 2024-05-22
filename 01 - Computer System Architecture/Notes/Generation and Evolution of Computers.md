@@ -1,0 +1,11 @@
+- First generation computers *1941-1946*
+	- These are characterised by their ==use of vacuum tubes== for performing computations and ==magnetic drums for storage of data==.
+- Second Generation Computers *1956-1963*
+	- ==Transistors== (*by* ***Schockly Brattan and Bardeen***) replaced the vacuum tubes
+- $3^{rd}$ Generation computers
+	- New invention of== **integrated circuits ic**== by *Jack Kilby* in *1958*
+		- Much more compact and multiprogramming.
+- $4^{th}$ Generation computers *1971 - present*
+	- Implementation of ==**[[ULSI]]** , **[[VLSI]]**== 
+		- Effeciency and reliability increased.
+- $5^{th}$ generation computers ==*present - beyond*==

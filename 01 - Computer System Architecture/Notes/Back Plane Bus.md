@@ -1,0 +1,1 @@
+A single bus interconnecting all the components of a computer.

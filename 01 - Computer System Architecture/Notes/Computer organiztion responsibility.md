@@ -1,0 +1,1 @@
+ Computer organization concerned with the way the hardware compone that are connected together to form a computer system.

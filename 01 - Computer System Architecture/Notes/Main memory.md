@@ -1,0 +1,1 @@
+Also called as RAM because *CPU* can access any location in memory at random and it can retrieve the binary information stored at that location or can store information at that location.

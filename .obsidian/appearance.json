@@ -1,0 +1,20 @@
+{
+  "accentColor": "#2ecbff",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "translucency": true,
+  "enabledCssSnippets": [
+    "checkbox",
+    "Colored-Siderbar-Items",
+    "Daily-Notes-Themes",
+    "Notebook-Backgrounds",
+    "image-background",
+    "typography",
+    "vim-static-caret",
+    "block-cursor"
+  ],
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "UbuntuMono Nerd Font Mono",
+  "textFontFamily": "UbuntuMono Nerd Font Mono",
+  "monospaceFontFamily": "UbuntuMono Nerd Font Mono"
+}

@@ -1,0 +1,1 @@
+Program is a set of instructions that specify operations, operands and the sequence by which processing has occur.

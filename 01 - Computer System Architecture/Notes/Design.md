@@ -1,0 +1,1 @@
+It defines the designing of the system once its architecture is layed out and the organization of the system is done.

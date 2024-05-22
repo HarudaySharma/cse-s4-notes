@@ -1,0 +1,1 @@
+Instructions were executed manually, a person would operate the computer by using switches or chords, etc.

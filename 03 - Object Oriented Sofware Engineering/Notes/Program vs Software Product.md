@@ -1,0 +1,17 @@
+Programs are developed by individuals for their personal use. 
+- They are therefore, small in size and have limited functionality but software products are extremely large.
+- In case of a program, 
+	- The programmer himself is the sole user but on the other hand, 
+	- In case of a software product, most users are not involved with the development. 
+- In case of a program, 
+	- A single developer is involved but 
+	- In case of a software product, a large number of developers are involved.
+- For a program, 
+	- The user interface may not be very important, because the programmer is the sole user.
+	- For a software product, user interface must be carefully designed and implemented because developers of that product and users of that product are totally different. 
+- In case of a program,
+	- Very little documentation is expected, 
+	- But a software product must be well documented. 
+- A program 
+	- can be developed according to the programmer’s individual style of development,
+	- but a software product must be developed using the accepted software engineering principles.

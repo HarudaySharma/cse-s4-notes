@@ -1,0 +1,6 @@
+#### 1. [[Mean Absolute Error(MAE)]]
+#### 2. [[Mean Square Error(MSE)]]
+#### 3. [[Root Mean Squared Error(RMSE)]]
+#### 4. [[R-Squared]] 
+#### 5. [[Adjusted R-Squared]]
+#### 6. [[Correlation]]

@@ -1,0 +1,3 @@
+A correlation coefficient is a *numerical measure of some type of correlation*, meaning a ==statistical relationship between two variables==. 
+- The variables may be two columns of a given data set of observations.
+- Correlation coefficient values in the range from −1 to +1, where +1 indicates the strongest possible correlation and 0 indicates no correlation.  However, when its -1, then its is a negative correlation.

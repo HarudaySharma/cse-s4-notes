@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1694007947948,
+      "path": "Sem 3/Computer Networks/Notes/Page of Contents.md",
+      "title": "CN"
+    },
+    {
+      "type": "file",
+      "ctime": 1694007982658,
+      "path": "Sem 3/Database Management System/Notes/Page of Contents.md",
+      "title": "DBMS"
+    },
+    {
+      "type": "group",
+      "ctime": 1715591800814,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1715591768880,
+          "path": "03 - Object Oriented Sofware Engineering/Notes/130520241414 - The Basic COCOMO Model.md",
+          "title": "Basic Cocomo Model"
+        }
+      ],
+      "title": "Incomplete"
+    },
+    {
+      "type": "group",
+      "ctime": 1715591814744,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1715584840274,
+          "path": "01 - Computer System Architecture/Notes/180420241001 - DMA in detail.md",
+          "title": "DMA Controller"
+        }
+      ],
+      "title": "Unorganized"
+    }
+  ]
+}

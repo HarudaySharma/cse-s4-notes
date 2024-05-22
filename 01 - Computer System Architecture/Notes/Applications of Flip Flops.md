@@ -1,0 +1,11 @@
+These are the various types of flip-flops being used in digital electronic circuits and the applications of Flip-flops are as specified below.
+- Counters
+- Frequency Dividers
+- Shift Registers
+- Storage Registers
+- Bounce elimination switch
+- Data storage
+- Data transfer
+- Latch
+- Registers
+- Memory

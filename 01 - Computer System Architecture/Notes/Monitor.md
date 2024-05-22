@@ -1,0 +1,2 @@
+It is a visual display unit that serves as the primary output unit.
+Over the years the monitors have evolved from pure text display devices to monitors capable of displaying high quality graphics and animations.

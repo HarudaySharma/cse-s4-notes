@@ -1,0 +1,1 @@
+It defines how the components of computer system is interconnected.

@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "dda411f68857a15e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3055878c7d7db734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eabe6648a226ade5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d15694a35951541",
+    "type": "split",
+    "children": [
+      {
+        "id": "c15a9842b8382a69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c06d6ab8c7b965c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb1964b24bdfcc62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d10f05a65887689",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.5086555480957
+  },
+  "right": {
+    "id": "8d4f179bdce6ece6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d858c577f314b5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d3e3ce5aa087fb5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md"
+              }
+            }
+          },
+          {
+            "id": "7b3d1e0640e1312a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6649c4b549e0dfa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e6cf1a874a3d9fe1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "24d41f1d3945da31",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c43c73e71f7a862",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d2a96f24933b63f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md"
+              }
+            }
+          },
+          {
+            "id": "81d78b40cc013422",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "c06d6ab8c7b965c6",
+  "lastOpenFiles": [
+    "00 - Map of Content/310320241711 HOME.md",
+    "02 - Machine Learning/Notes/130520241310 - Benifits of Cross Validation.md",
+    "02 - Machine Learning/Notes/Main.md",
+    "02 - Machine Learning/Notes/070520241454 - Cross Validation.md",
+    "02 - Machine Learning/Notes/130520241309 - Model Evaluation & Improvement.md",
+    "02 - Machine Learning/Notes/Data Characteristics.md",
+    "01 - Computer System Architecture/Notes/240420241400 - CPU - IOP Communication.md",
+    "4913",
+    "01 - Computer System Architecture/Notes/Main.md",
+    "03 - Object Oriented Sofware Engineering/Notes/What is SDLC.md",
+    "02 - Machine Learning/Notes/260420241421 - ML vs AI vs DL.md",
+    "02 - Machine Learning/Notes/260420241410 - Introduction To Machine Learning.md",
+    "03 - Object Oriented Sofware Engineering/Notes/020520241329 - SD Model.md",
+    "32 - Daily/2024-03-25.md",
+    "02 - Machine Learning/Notes/Performance Metrics in Machine Learning.md",
+    "02 - Machine Learning/Notes/Performance Metrics for Classification.md",
+    "02 - Machine Learning/Notes/What is Error.md",
+    "02 - Machine Learning/Notes/230420241011 - Numericals.md",
+    "02 - Machine Learning/Notes/210520241626 - MISC Numericals.md",
+    "02 - Machine Learning/Notes/Generalization in Machine Learning.md",
+    "02 - Machine Learning/Notes/260420241413 - What is Machine Learning.md",
+    "02 - Machine Learning/Notes/230420241633 - Entropy & Info Gain Numericals.md",
+    "02 - Machine Learning/Notes/230420241020 - PCA Numerical (Unsupervised Learing).md",
+    "02 - Machine Learning/Resource Bank/2024-04-23-Note-11-01(PCA - Unsupervised Learning)_annotated.pdf",
+    "02 - Machine Learning/Notes/230420240908 - Forward & Backward Pass Numerical (ANN).md",
+    "02 - Machine Learning/Resource Bank/2024-04-23-Note-10-05(Forward and Backward Pass - ANN)_annotated.pdf",
+    "02 - Machine Learning/Notes/260420241405 - Neural Networks.md",
+    "02 - Machine Learning/Notes/110420241539 - Recurrent Neural Networks.md",
+    "02 - Machine Learning/Notes/260420241349 - Convolution Neural Networks (CNNs).md",
+    "02 - Machine Learning/Resource Bank/Pasted Image 20240521162711_488.jpg",
+    "02 - Machine Learning/Resource Bank/Pasted Image 20240521162952_260.jpg",
+    "02 - Machine Learning/Resource Bank/Pasted Image 20240521162947_608.jpg",
+    "02 - Machine Learning/Resource Bank/Pasted Image 20240521162805_595.jpg",
+    "Excalidraw",
+    "02 - Machine Learning/Drawings",
+    "02 - Machine Learning/Resource Bank/AIvsML.avif",
+    "01 - Computer System Architecture/Resource Bank/common bus system img.png",
+    "49 - Resource Cluster/Decision tree algorithm.pdf",
+    "49 - Resource Cluster/Pasted Image 20240516132428_253.png",
+    "49 - Resource Cluster/Pasted Image 20240516131604_881.png",
+    "49 - Resource Cluster/Pasted image 20240516130838.png",
+    "02 - Machine Learning/Resource Bank/Pasted image 20240513132223.png",
+    "01 - Computer System Architecture/Resource Bank/Computer System Architecture 3rd Edition-M Morris Mano.pdf",
+    "02 - Machine Learning/Resource Bank/HritvikNotes.docx",
+    "02 - Machine Learning/Resource Bank/ML (2).docx",
+    "03 - Object Oriented Sofware Engineering/Drawings",
+    "Untitled.canvas"
+  ]
+}
