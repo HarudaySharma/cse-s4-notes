@@ -12,5 +12,5 @@ in the mean time CPU can procced to execute another program.
 
 #### How Interrupt Initiated I/O Works
 - the I/O interface keeps on montoring the device and when it determines, device is ready for data transfer.
-- It generates interrupt request to the computer.
+- It generates interrupt request to the CPU.
 - upon detecting the Interrupt request CPU momentarily stops the task it is processing, branches to the service sub-routine to process the I/O transfer and then it returns to the task it was originally performing.

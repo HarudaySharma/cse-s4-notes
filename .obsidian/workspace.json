@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md",
+                "file": "01 - Computer System Architecture/Notes/230520240906 - Primary Memory.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md"
+                "file": "01 - Computer System Architecture/Notes/230520240906 - Primary Memory.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md",
+                "file": "01 - Computer System Architecture/Notes/230520240906 - Primary Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md",
+                "file": "01 - Computer System Architecture/Notes/230520240906 - Primary Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - Machine Learning/Notes/220520240548 - why CNN are not fully connected networks.md"
+                "file": "01 - Computer System Architecture/Notes/230520240906 - Primary Memory.md"
               }
             }
           },
@@ -192,35 +192,35 @@
   },
   "active": "c06d6ab8c7b965c6",
   "lastOpenFiles": [
-    "00 - Map of Content/310320241711 HOME.md",
-    "02 - Machine Learning/Notes/130520241310 - Benifits of Cross Validation.md",
-    "02 - Machine Learning/Notes/Main.md",
-    "02 - Machine Learning/Notes/070520241454 - Cross Validation.md",
-    "02 - Machine Learning/Notes/130520241309 - Model Evaluation & Improvement.md",
-    "02 - Machine Learning/Notes/Data Characteristics.md",
-    "01 - Computer System Architecture/Notes/240420241400 - CPU - IOP Communication.md",
-    "4913",
     "01 - Computer System Architecture/Notes/Main.md",
-    "03 - Object Oriented Sofware Engineering/Notes/What is SDLC.md",
-    "02 - Machine Learning/Notes/260420241421 - ML vs AI vs DL.md",
-    "02 - Machine Learning/Notes/260420241410 - Introduction To Machine Learning.md",
-    "03 - Object Oriented Sofware Engineering/Notes/020520241329 - SD Model.md",
-    "32 - Daily/2024-03-25.md",
-    "02 - Machine Learning/Notes/Performance Metrics in Machine Learning.md",
-    "02 - Machine Learning/Notes/Performance Metrics for Classification.md",
-    "02 - Machine Learning/Notes/What is Error.md",
-    "02 - Machine Learning/Notes/230420241011 - Numericals.md",
-    "02 - Machine Learning/Notes/210520241626 - MISC Numericals.md",
-    "02 - Machine Learning/Notes/Generalization in Machine Learning.md",
-    "02 - Machine Learning/Notes/260420241413 - What is Machine Learning.md",
-    "02 - Machine Learning/Notes/230420241633 - Entropy & Info Gain Numericals.md",
-    "02 - Machine Learning/Notes/230420241020 - PCA Numerical (Unsupervised Learing).md",
+    "01 - Computer System Architecture/Notes/110420241503 - Asynchronous Data Transfer.md",
+    "01 - Computer System Architecture/Drawings/110420241506 - Async Communication Interface 2024-04-17 14.12.05.excalidraw.md",
+    "01 - Computer System Architecture/Notes/110420241506 - Methods for Async Data Transfer.md",
+    "01 - Computer System Architecture/Notes/070520241519 - Modes of Data Transfer.md",
+    "01 - Computer System Architecture/Notes/180420240947 - Interrupt Driven I-O.md",
+    "01 - Computer System Architecture/Notes/180420240956 - Direct Memory Access (DMA).md",
+    "01 - Computer System Architecture/Notes/180420241001 - DMA in detail.md",
+    "01 - Computer System Architecture/Notes/230420241137 - DMA Burst Mode.md",
+    "01 - Computer System Architecture/Notes/150520241324 - Three Registers of DMA Controller.md",
+    "01 - Computer System Architecture/Notes/150520241323 - DMA Working.md",
+    "01 - Computer System Architecture/Notes/180420240933 - Programmed I-O.md",
+    "01 - Computer System Architecture/Notes/240420241349 - I-O Processor.md",
+    "01 - Computer System Architecture/Notes/240420241400 - CPU - IOP Communication.md",
+    "01 - Computer System Architecture/Notes/130520241251 - Memory Organization.md",
+    "01 - Computer System Architecture/Notes/160520241322 - Cache Memory.md",
+    "01 - Computer System Architecture/Notes/160520241323 - Locality of Reference.md",
+    "01 - Computer System Architecture/Notes/070520241506 - Associative Memory.md",
+    "01 - Computer System Architecture/Notes/160520241307 - Hardware Organization of Associative Memory.md",
+    "01 - Computer System Architecture/Notes/160520241317 - Example Associative Memory.md",
+    "01 - Computer System Architecture/Notes/160520241315 - Memory Array & External Registers Relationship.md",
+    "01 - Computer System Architecture/Drawings/160520241315 - Memory Array & External Registers Relationship (associative memory of m words and n cells per word) 2024-05-16 13.15.55.excalidraw.md",
+    "01 - Computer System Architecture/Drawings/160520241307 - Hardware Organization of Associative Memory 2024-05-16 13.08.53.excalidraw.md",
+    "01 - Computer System Architecture/Notes/250420240937 - Memory Hierarchy.md",
+    "01 - Computer System Architecture/Notes/230520240911 - Secondary Memory.md",
+    "01 - Computer System Architecture/Notes/230520240906 - Primary Memory.md",
+    "4913",
     "02 - Machine Learning/Resource Bank/2024-04-23-Note-11-01(PCA - Unsupervised Learning)_annotated.pdf",
-    "02 - Machine Learning/Notes/230420240908 - Forward & Backward Pass Numerical (ANN).md",
     "02 - Machine Learning/Resource Bank/2024-04-23-Note-10-05(Forward and Backward Pass - ANN)_annotated.pdf",
-    "02 - Machine Learning/Notes/260420241405 - Neural Networks.md",
-    "02 - Machine Learning/Notes/110420241539 - Recurrent Neural Networks.md",
-    "02 - Machine Learning/Notes/260420241349 - Convolution Neural Networks (CNNs).md",
     "02 - Machine Learning/Resource Bank/Pasted Image 20240521162711_488.jpg",
     "02 - Machine Learning/Resource Bank/Pasted Image 20240521162952_260.jpg",
     "02 - Machine Learning/Resource Bank/Pasted Image 20240521162947_608.jpg",

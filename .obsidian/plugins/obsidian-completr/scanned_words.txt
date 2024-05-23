@@ -5312,6 +5312,8 @@ OTpM
 OMk
 OXKv
 OPV
+Optical
+Offer
 Systems
 Size
 Ssin
@@ -12072,6 +12074,13 @@ SuW
 SLM
 SnV
 SqRJ
+Semester
+SRAM
+Static
+Secondary
+Solid
+SSDs
+SATA
 Interconnection
 Info
 ID
@@ -23819,6 +23828,7 @@ IfO
 IAW
 IuJk
 IZCV
+Include
 What
 WH
 Wn
@@ -35278,6 +35288,8 @@ intw
 iAZj
 ianL
 iBMY
+improves
+idleness
 Model
 Mg
 MNH
@@ -56729,6 +56741,7 @@ lOyQa
 lTxT
 lKQV
 lomkk
+loses
 framework
 for
 fl
@@ -61690,6 +61703,8 @@ fqEs
 fBI
 fLTEv
 fTs
+firmware
+flash
 the
 that
 types
@@ -87647,6 +87662,10 @@ siwG
 sHb
 sBya
 soOb
+spinning
+spindle
+shock
+supplementing
 allows
 all
 as
@@ -92815,6 +92834,9 @@ aRhR
 aGceoZ
 akjbcjksdbsdjkvbsdkv
 aqdborevnvdvds
+accessible
+actuator
+archival
 communication
 computer
 can
@@ -98600,6 +98622,9 @@ cxohj
 cPQF
 cenl
 chU
+cores
+capacities
+consumer
 Fundamentals
 Filter
 FlateDecode
@@ -103147,6 +103172,7 @@ FVFh
 FRRndz
 FrY
 FnCgt
+Flash
 Layered
 Layers
 Layer
@@ -114598,6 +114624,7 @@ AJKkhfO
 AFG
 AAW
 Aate
+Amazon
 points
 physical
 pd
@@ -119997,6 +120024,8 @@ pLf
 pYd
 pXC
 pbym
+platters
+providers
 remember
 rz
 rWil
@@ -126381,6 +126410,12 @@ ryWtTZ
 rUmm
 rkSu
 rpZJ
+repo
+refreshed
+retains
+rarely
+resistant
+retention
 be
 belonging
 but
@@ -143040,6 +143075,7 @@ hdl
 hKBl
 howL
 huUy
+heads
 PDF
 Prev
 Ps
@@ -148443,6 +148479,10 @@ Phb
 PNB
 PWf
 PgGc
+PROM
+Programmable
+Portable
+Provide
 endobj
 eR
 eE
@@ -172012,6 +172052,10 @@ EOKW
 ENHf
 ELczi
 ETcl
+EPROM
+Erasable
+EEPROM
+Electrically
 yX
 yb
 yGq
@@ -182820,6 +182864,7 @@ voBR
 viE
 vMC
 vqa
+volatile
 HqvW
 Hs
 HZ
@@ -188171,6 +188216,8 @@ HkP
 HjCK
 Hqf
 Hlva
+Hard
+HDDs
 kI
 kM
 kH
@@ -209831,6 +209878,8 @@ Nxiom
 NgNDm
 NzL
 NFyI
+Needs
+NVMe
 Kw
 Ka
 KD
@@ -232511,6 +232560,7 @@ Vkj
 VNJz
 VIE
 VlfD
+Versatile
 XoQB
 XN
 XT
@@ -261118,6 +261168,11 @@ DIyj
 DZr
 DvbQ
 Dby
+DRAM
+Discs
+DVDs
+Drive
+Dropbox
 UuId
 Uy
 Uu
@@ -265568,6 +265623,8 @@ UHu
 UDI
 UBl
 Uege
+Undergrad
+USB
 qi
 ql
 qM
@@ -269995,6 +270052,8 @@ qZrGm
 qlP
 qspl
 qnKo
+quantities
+quieter
 Cd
 Cs
 CQ
@@ -275102,6 +275161,8 @@ CVQv
 CaJN
 Csrd
 CkFA
+Compact
+Cloud
 BW
 BaseFont
 Bpf
@@ -282601,6 +282662,7 @@ BHK
 BEss
 BYD
 BkhA
+BIOS
 ZM
 Zm
 ZN
@@ -292453,6 +292515,7 @@ gIXJ
 gGxw
 gWqW
 ggzD
+gigabyte
 YO
 YQQ
 YP

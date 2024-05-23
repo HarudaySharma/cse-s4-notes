@@ -9,3 +9,4 @@ tags: []
 > `Word-1   100  111100    No Match` 
 > `Word-2   101  000001   Match` 
 >- Word 2 matches the unmasked argument field because the three leftmost bits of the argument and the word are equal.
+>- so the M bit of word 2 ($M_2$) in the match register register will be set to 1

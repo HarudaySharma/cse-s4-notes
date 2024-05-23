@@ -9,7 +9,7 @@ tags: []
 - it specifys the number of words that must be transferred.
 - this register is decremented by 1, after each word transfer and the value is internally tested for 0.
 ###### 3. Control register
-- It specifys the mode of transfer.
+- It specifys the mode of transfer (Read/Write).
 
 ----
 
