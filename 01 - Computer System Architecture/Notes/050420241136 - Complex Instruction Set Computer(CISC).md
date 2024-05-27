@@ -3,7 +3,7 @@ date: 2024-04-05T11:35
 tags: []
 ---
 In CISC ==more instrucions and addressing modes== are incorporated into a computer 
-- therefore, the ==more hardware logic== is needed to ==implement and support them==, 
+- therefore, ==more hardware logic== is needed to ==implement and support them==, 
 - as a result this may cause the ==computations to slow down==.
 
 >[!important] characteristics

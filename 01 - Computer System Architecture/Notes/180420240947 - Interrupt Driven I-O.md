@@ -7,7 +7,7 @@ tags: []
 >this is a time consuming process since it keeps the processor busy needlessly.
 
 >[!check] Solution
->It can be avoided by using an interrupt facility and special command to inform the interface to issue an interrupt request signal when the data are available from the device.
+>It can be avoided by using an interrupt facility and special command to inform the interface to issue an interrupt request signal when the data is available from the device.
 in the mean time CPU can procced to execute another program.
 
 #### How Interrupt Initiated I/O Works

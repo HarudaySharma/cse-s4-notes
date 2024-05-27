@@ -7,10 +7,10 @@
 >- Opcode specifies the operations to be performed. As the opcode size is 3 bits, we can perform 2³(=8) operations. 
 >- We have to decode these bits using a decoder to perform all these operations. 
 >- Since opcode is of 3 bits, those 3 bits are passed as input to a decoder, and hence we use a 3X8 decoder and get 8 outputs. 
->- All these outputs, along with the address and the indirect bit, are passed to control unit gates. 
+>- All these outputs, along with the address and the indirect bit, are passed to control logic gates. 
 >- Say if we get our input as 001 and let’s say that it contains the ADD operation, the output D1 from the decoder will become active and control logic gates will perform that. 
->- Next, we have a Sequence Counter of size 4 bits. Since the size is 4 bits, we will have 2⁴(=15) timing signals ranging from 0 to 15. 
+>- Next, we have a Sequence Counter of size 4 bits. Since the size is 4 bits, we will have 2⁴(=16) timing signals ranging from 0 to 15. 
 >- 4 bits sequence counter will be decoded using a decoder. Since the size of SC is 4 bits, a 4X16 decoder is used, and all the outputs of the decoder (from T0 to T15) are given as input to control logic gates. 
 >- Sequence Counter accepts 3 control inputs, namely, increment(INR), clear(CLR), and clock. 
->- Whenever the clock bus and increment control unit is enabled, we can only perform some operation on the sequence counter. 
+>- Whenever the clock pulse and increment control unit is enabled, we can only perform some operation on the sequence counter. 
 >- Enabling clear input makes the counter start from the beginning.

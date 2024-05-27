@@ -33,5 +33,3 @@ One place in the computer to another *without changing the data content*.
 	- The input and output instruction transfer data among processor registors and input and output terminals.
 6. PUSH / POP
 	 - the push and pop instructions tranfer data between processor registers and a memory stack.
- 
- *ON push => SP content is decremented*

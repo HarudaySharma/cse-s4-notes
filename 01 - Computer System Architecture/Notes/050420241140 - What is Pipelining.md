@@ -13,7 +13,7 @@ The ==execution== of each of these sub operations ==takes place in a certain ded
 - The **final result** is obtained ==after the data have passed through all segments==.
 ##### How is it possible?
 - The overlapping of computation is ==made possible by associating a register with each segment in the pipeline== 
-- The register provider isolation between each segement so that each can operate on distinct data simultaneously.
+- The register provides isolation between each segement so that each can operate on distinct data simultaneously.
 
 >[!note] 
 >*Numerical will be there* 

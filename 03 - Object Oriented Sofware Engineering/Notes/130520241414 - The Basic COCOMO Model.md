@@ -12,4 +12,5 @@ Three modes of software development are considered.
 
 #### [[130520241438 - Basic COCOMO Model Formula|Formula]]
 
-![[Pasted image 20240513144237.png]]
+![[Drawing 2024-05-27 14.43.29.excalidraw]]
+#### [[270520241456 - Example - Basic COCOMO|Example]]

@@ -25,10 +25,3 @@ In most cases, memory unit acts as a message center where each processor leaves 
 7. The IOP responds by placing the content of its STATUS report into a specified memory location.
 	- The STATUS word indicates whether the transfer has been completed or if any errors occured during the transfer.
 8. From inspection of bits in the STATUS WORD CPU determines if the I/O operation was completed satisfactory without errors.
-
-
-akjbcjksdbsdjkvbsdkv
-jkcbkacbsakcbaskcas
-aqdborevnvdvds
-
-jkabkjverpvnqwkn

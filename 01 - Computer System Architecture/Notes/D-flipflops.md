@@ -3,7 +3,7 @@ cssclasses: [embed-white, ]
 ---
 
 Also called ***Transparent Latch OR Transparent Flip Flop***
-*Clocked Sr Latch* 
+
 ![[Pasted image 20240214140351.png]]
 
 ![[d-flip-flop.webp]]

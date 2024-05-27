@@ -15,6 +15,6 @@ The four segments of instrcution pipeline are
 ##### [[110420241433 - Example of Instruction Pipeline|Example]]
 ##### [[180420241459 - Problems with Instruction Pipeline |Problems with Instruction Pipeline]]
 
-*flowchar of instruction pipeline*
+*flowchart of instruction pipeline*
 ![[Pasted image 20240411141443.png]]
 

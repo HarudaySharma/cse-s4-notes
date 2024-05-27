@@ -3,7 +3,7 @@ date: 2024-04-17T13:52
 tags: []
 ---
 #### Start & Stop Bit
-A serial asynchronous data transmission technique used in many interactive terminals employs special bits that are inserted at both ends of the character code 
+A serial asynchronous data transmission technique used in many interactive terminals **employs** ==special bits that are inserted at both ends of the character code== 
 with this technique each character consistes of three (3) parts
 
 1. Start bit

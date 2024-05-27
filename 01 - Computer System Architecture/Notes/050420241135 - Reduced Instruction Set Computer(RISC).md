@@ -10,5 +10,5 @@ The concept of RISC architecture involves an ==attempt to reduce execution time=
 >3. Memory access limited to LOAD and STORE instructions.
 >4. All operations done within the registers of the CPU.
 >5. Fixed Length and easily decoded instruction format 
->6. Signal cycle instruction execution 
+>6. Single cycle instruction execution 
 >7. Hardwire rather than micro programmed control.

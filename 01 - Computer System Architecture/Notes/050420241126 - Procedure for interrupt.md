@@ -11,5 +11,5 @@ After the ==program has been interrupted== and the *service routine* has been ex
 >[!Note]
 >The state of the CPU at the end of the execute cycle (when the interrupt is recognized) is determined from
 >1. The content of the Program Counter.
->2. The Content of all Process Registers.
+>2. The Content of all Processor Registers.
 >3. The Content of certain Status Conditions.

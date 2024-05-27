@@ -10,10 +10,3 @@ tags: []
 - this register is decremented by 1, after each word transfer and the value is internally tested for 0.
 ###### 3. Control register
 - It specifys the mode of transfer (Read/Write).
-
-----
-
-the CPU initialises the DMA by sending the following through the data bus.
-1. the starting address of the memory block for read or write.
-2. the word count i.e. the number of words in memory block.
-3. control to specify the mode of transfer such as read or write.

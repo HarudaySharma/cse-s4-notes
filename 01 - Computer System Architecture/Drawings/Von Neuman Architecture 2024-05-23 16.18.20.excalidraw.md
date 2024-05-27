@@ -9,7 +9,7 @@ tags: [excalidraw]
 
 # Text Elements
 # Embedded files
-52c95361d26631cb01bd007448dac95f0c9881fc: [[Pasted image 20240330161650.png]]
+b06cdfcaebe7329ab61c148dff6f7a6d469b5f4f: [[Pasted image 20240216174315.png]]
 
 %%
 # Drawing
@@ -21,32 +21,32 @@ tags: [excalidraw]
 	"elements": [
 		{
 			"type": "image",
-			"version": 2,
-			"versionNonce": 1281262422,
+			"version": 40,
+			"versionNonce": 417843067,
 			"isDeleted": false,
-			"id": "vinqG0PK",
+			"id": "h39BLzKk",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -250,
-			"y": -198.1177606177606,
+			"x": -254.1666768193245,
+			"y": -219.69461774069168,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 500,
-			"height": 396.2355212355212,
-			"seed": 36558,
+			"height": 351.74603174603175,
+			"seed": 55544,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1716103804428,
+			"updated": 1716461306017,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "52c95361d26631cb01bd007448dac95f0c9881fc",
+			"fileId": "b06cdfcaebe7329ab61c148dff6f7a6d469b5f4f",
 			"scale": [
 				1,
 				1
@@ -57,7 +57,7 @@ tags: [excalidraw]
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#fff9db",
+		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -68,13 +68,13 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 458.87397950237255,
-		"scrollY": 264.51987584467463,
+		"scrollX": 425.67706298828125,
+		"scrollY": 294.51171875,
 		"zoom": {
-			"value": 1.4997994815646232
+			"value": 1
 		},
 		"currentItemRoundness": "round",
-		"gridSize": 20,
+		"gridSize": null,
 		"gridColor": {
 			"Bold": "#C9C9C9FF",
 			"Regular": "#EDEDEDFF"

@@ -2,7 +2,7 @@
 date: 2024-04-18T09:56
 tags: 
 ---
-In DMA the I/O interface has direct access to memory bus. Thus, transfers data into and out of the memory through the memory bus.
+In DMA the **I/O interface has direct access to memory bus**. Thus, transfers data into and out of the memory through the memory bus.
 - the CPU initiates the transfer, 
 	- by supplying the interface with the ==starting address== 
 	- and the ==number of words== needed to be transferred 

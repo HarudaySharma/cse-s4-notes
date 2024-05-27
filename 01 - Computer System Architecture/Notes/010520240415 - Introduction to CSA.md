@@ -13,7 +13,7 @@ It is composed of three components :
 >4 bytes: nibble
 
 **Information**: Group of data represented by bits.
-- This bits are used to for performing various types of computations.
+- This bits are used for performing various types of computations.
 ##### **Computer System**
 *Hardware*:
 - Electronic components and electro mechanical devices that comprise physical entity of device.

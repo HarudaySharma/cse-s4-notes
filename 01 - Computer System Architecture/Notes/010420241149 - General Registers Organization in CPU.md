@@ -2,7 +2,7 @@
 date: 2024-04-01T11:49
 tags: []
 ---
-*A bus organization for a cpu register is shown.*
+*A bus organization for cpu registers is shown.*
 ![[010420241149 - General Registers Organization in CPU 2024-05-19 12.34.08.excalidraw]]
 
 - The output of each register is connected to *2* multiplexers to form two buses **A** & **B**
