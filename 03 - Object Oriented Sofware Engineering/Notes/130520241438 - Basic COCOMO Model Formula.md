@@ -23,3 +23,5 @@ The above formula is used for the cost estimation of the basic COCOMO model and 
 
 - The effort is measured in Person-Months and as evident from the formula is dependent on Kilo-Lines of code. The development time is measured in months.
 - These formulas are used as such in the Basic Model calculations, as not much consideration of different factors such as reliability, and expertise is taken into account, henceforth the estimate is rough.
+
+![[Drawing 2024-05-27 14.43.29.excalidraw]]
