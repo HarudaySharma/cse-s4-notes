@@ -5,19 +5,19 @@ tags: []
 >[!example] 
 >```
 >i = 0;
->n=4;
+>n = 4;
 >
->while (i<n-1) do
->j = i + 1;
+>while (i < n - 1) do
 >
->while (j<n) do
+>while (j < n) do
 >
 >if A[i] < A[j] then
->
 >swap(A[i], A[j]);
->end do;
->j=j+1;
 >
+>j = j + 1;
+>end do;
+>
+>i = i + 1;
 >end do;
 >```
 >*Flow graph for this program will be*

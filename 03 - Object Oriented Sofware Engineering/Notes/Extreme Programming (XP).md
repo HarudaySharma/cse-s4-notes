@@ -1,7 +1,7 @@
 Was proposed by **Kent Beck** in 1999.
 
 The methodology got its name from the fact that
-- Recommends taking the best practices to extreme levels.
+- It Recommends taking the best practices to extreme levels.
 - If something is good, why not do it all the time.
 
 **GOOD PRACTICES**

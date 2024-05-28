@@ -9,6 +9,6 @@
 - Start work with some generic model.
 	- Add extra phases.
 	- For specific projects or when problems are identified during a project.
-- Each loop in the spiral is split into four sectors (quadrants).
 
+*Each loop in the spiral is split into four sectors (quadrants).*
 ![[Pasted image 20240129062107.jpg]]

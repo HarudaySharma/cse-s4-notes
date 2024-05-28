@@ -4,7 +4,7 @@ tags: []
 ---
 - The ==basic COCOMO model assumes== that the **effort** is only a *function of the number of lines of code* and *some constants* evaluated according to the different software systems. 
 - However, ***in reality***, **no system’s effort** and schedule ==can be solely calculated based on Lines of Code==.
-- For that, ==various other factors== such as **reliability**, **experience**, and **Capability**. 
+- For that, ==various other factors== such as **reliability**, **experience**, and **Capability** are used. 
 - These factors are ==known as== ***Cost Drivers*** and the <u>Intermediate Model</u> *utilizes 15 such drivers for cost estimation*.
 	- Primary cost driver is the number of **Delivered Source Instructions** (DSI) / **Delivered Line of Code** developed by the project.
 

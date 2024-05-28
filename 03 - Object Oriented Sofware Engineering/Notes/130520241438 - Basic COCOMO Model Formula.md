@@ -9,7 +9,7 @@ tags:
 *where*
 $E=Effort\;applied\;in\;person\: /\:months$
 $D=Development\;time\;in\;months(Schedule)$
-$KLOC/KDSI=Estimated\;Lines\;of\;Code(in\;thousands)$
+$KLOC=Estimated\;Lines\;of\;Code(in\;thousands)$
 $P=No.\;of\;people\;required$
 ${a_b,\: b_b,\: c_b,\: d_b}\; are \;coefficients$
 
