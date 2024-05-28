@@ -4,8 +4,8 @@ tags: []
 ---
 The expressions are as follows:
 
-$E=a\times (KLOC)b \times EAF \; PM$
-$D=C\times(EFFORT)d$
+$E=a\times (KLOC)^b \times EAF \;$-> in P/M
+$D=c\times(EFFORT)^d$
 
 *where*
 $EAF = Effort\;Adjustment\;Factor$

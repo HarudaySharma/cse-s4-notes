@@ -13,4 +13,5 @@ tags:
 #### [[130520241407 - Empirical Estimation Models|Empirical Estimation Models]]
 #### [[130520241448 - Project Scheduling|Project Scheduling]]
 #### [[130520241511 - Risk Management|Risk Management]]
+#### [[270520241408 - Quality Management|Quality Management]]
 #### [[270520241515 - Numericals|Numericals]]

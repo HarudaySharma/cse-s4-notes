@@ -3,7 +3,7 @@ date: 2024-05-13T14:38
 tags:
 ---
 1. $E = a_b\times(KLOC)^{b_b}$
-2. $Time = c_b\times(Effort)^{d_b}$
+2. $Time\:(Schedule) = c_b\times(Effort)^{d_b}$
 3. $Person\; required = \frac{E}{D}$
 
 *where*
